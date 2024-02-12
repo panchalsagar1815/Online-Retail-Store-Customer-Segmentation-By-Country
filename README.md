@@ -12,7 +12,7 @@ The "Online Retail Store Customer Segmentation By Country" project aims to analy
    - Given that more than 90% of customers are from the United Kingdom, the analysis is focused on this specific geography.
 
 2. **RFM Analysis:**
-   - Recency, Frequency, and Monetary (RFM) analysis is employed to evaluate customer behavior.
+   - Recency, Frequency, and Monetary (RFM) analysis is employed to evaluate customer behaviour.
    - Recency: Measures the time since the last purchase by each customer.
    - Frequency: Represents the number of transactions made by each customer.
    - Monetary Value: Reflects the total monetary value of purchases made by each customer.
