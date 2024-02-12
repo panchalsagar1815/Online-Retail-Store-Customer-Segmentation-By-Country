@@ -1,5 +1,4 @@
-# Online
-
+# 
 **Project Title: Online Retail Store Customer Segmentation By Country**
 
 **Overview:**
