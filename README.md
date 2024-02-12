@@ -1,4 +1,4 @@
-# Online Retail Store Customer Segmentation By Country
+# Online Retail Store Customer Segmentation By 
 
 **Project Title: Online Retail Store Customer Segmentation By Country**
 
