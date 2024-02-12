@@ -32,7 +32,7 @@ The "Online Retail Store Customer Segmentation By Country" project aims to analy
    - These visualizations can provide a clear understanding of how customers are distributed across recency, frequency, and monetary value quartiles.
 
 6. **Business Implications:**
-   - The project emphasizes the practical implications of customer segmentation, offering insights into customer behavior and preferences.
+   - The project emphasizes the practical implications of customer segmentation, offering insights into customer behaviour and preferences.
    - Marketing strategies, product recommendations, and communication approaches can be tailored based on the identified customer segments.
 
 **Customer Examples:**
