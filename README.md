@@ -3,7 +3,7 @@
 **Project Title: Online Retail Store Customer Segmentation By Country**
 
 **Overview:**
-The "Online Retail Store Customer Segmentation By Country" project aims to analyze and segment customers of an online retail store based on their purchasing behavior, specifically focusing on customers from the United Kingdom. The dataset includes features such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country. By leveraging recency, frequency, and monetary value metrics, customer segmentation provides valuable insights for targeted marketing and personalized customer engagement.
+The "Online Retail Store Customer Segmentation By Country" project aims to analyze and segment customers of an online retail store based on their purchasing behaviour, specifically focusing on customers from the United Kingdom. The dataset includes features such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country. By leveraging recency, frequency, and monetary value metrics, customer segmentation provides valuable insights for targeted marketing and personalized customer engagement.
 
 **Key Features:**
 
