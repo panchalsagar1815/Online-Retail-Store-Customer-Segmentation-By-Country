@@ -24,7 +24,7 @@ The "Online Retail Store Customer Segmentation By Country" project aims to analy
 
 4. **Interpretation and Examples:**
    - Examples of customer segments are provided, showcasing the recency, frequency, and monetary value metrics.
-   - CustomerID 12747 is highlighted with recency of 2 days, frequency of 103, and monetary value of $4196.01.
+   - CustomerID 12747 is highlighted with a recency of 2 days, frequency of 103, and monetary value of $4196.01.
    - CustomerID 12346 stands out with a single purchase but a substantial monetary value of $77183.60.
 
 5. **Segmentation Visualization:**
